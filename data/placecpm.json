@@ -1,0 +1,387 @@
+{
+	"actions": [
+		{
+			"id": "4;a",
+			"state": "SUCCESS",
+			"returnValue": {
+				"returnValue": {
+					"hasNext": false,
+					"responses": [
+						{
+							"comments": [],
+							"id": "a6H3u000000TTaKEAW",
+							"likeCount": 3,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000D9pYCQAZ",
+								"isSalesforceMVP": false,
+								"isWinningUser": true,
+								"name": "Kelly Sharp",
+								"smallPhotoUrl": "https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eYlpKXCjXTKuHfKtq1KT0pVowagObUmEmZw2bL90v9uPGdfIyMC9j2fX3Rl6uJXAJg%3D%3D",
+								"tbidUserId": "0051I000004VGLiQAO",
+								"trailblazerIdentityId": "ksharp1"
+							},
+							"responseDate": "2020-08-14T19:10:05.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3u000000c4vyEAA",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3u000000c4vzEAA",
+									"questionExternalId": "Subject__c",
+									"response": "Better than we expected...."
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3u000000c4w0EAA",
+									"questionExternalId": "Comment__c",
+									"response": "To be honest, when reviewing PlaceCPM we thought it was overkill for a business our size.  But, after an easy install and a quick set up with some great help from PlaceCPM because of our unusual process, we quickly found out what a valuable tool this is for a small business like ours.\n\nWhen you are a small business, cash is king, and knowing when and where you are going to need cash, where it is coming from was very revealing. We quickly could make adjustments for future business.  So Long complicated spreadsheets!\n\nOur CFO said &quot;I wish I had this years ago&quot;.\n\nThe reports are great. They are simple to make and so easy to drill down into the nitty gritty to see what is really going on in detail.\n\nAll in all, it has already paid for the investment in Place…."
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3u000000TQhzEAG",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000EKyVKQA1",
+								"isSalesforceMVP": false,
+								"isWinningUser": false,
+								"name": "Mike Hoal",
+								"smallPhotoUrl": "https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eZYfu112VLmgitDggZb7cE1rIVFLsNzby3HDEqOUYvcZk60cuG4YpDQQnaKg3qDzGQ%3D%3D",
+								"tbidUserId": "0051I000004YezEQAS",
+								"trailblazerIdentityId": "mikehoal"
+							},
+							"responseDate": "2020-06-10T23:38:37.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3u000000bty7EAA",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3u000000bty8EAA",
+									"questionExternalId": "Subject__c",
+									"response": "The 360 degree storyteller on the KPIs of your business!"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3u000000bty9EAA",
+									"questionExternalId": "Comment__c",
+									"response": "PlaceCPM is the total package and allows c-suite executives to see a 360-degree view of your KPIs to make key informed decisions. Helps with cost/benefit analysis, cash projects, collaborative forecasting, and more! Can also build dashboard and reports for snapshots at a glance to communicate with your executive team! I highly recommend the product and the team behind it!"
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3u000000TQPUEA4",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000DA8RoQAL",
+								"isSalesforceMVP": false,
+								"isWinningUser": true,
+								"name": "Brandon Ward",
+								"smallPhotoUrl": "https://trailblazer.me/img/userprofile/default_profile_200_v2.png",
+								"tbidUserId": "0051I000004ZfWMQA0",
+								"trailblazerIdentityId": "bward5"
+							},
+							"responseDate": "2020-06-04T15:58:04.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3u000000btBrEAI",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3u000000btBsEAI",
+									"questionExternalId": "Subject__c",
+									"response": "FINALLY-Forecasting &amp; P+L QB Data in SF"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3u000000btBtEAI",
+									"questionExternalId": "Comment__c",
+									"response": "PlaceCPM is where it&#39;s at for forward-looking financials and financial forecasting, both revenue, and cost (goods &amp; labor), etc.  Plus, you can set Budget and get the long-sought after Actual/Variance look at your cost centers. \n\nAs a CEO, I love it - I can model my revenue, costs and steer my business with financial accounting data from Salesforce.  \n\nWINNER!"
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3A0000004LhlUAE",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000FUx9jQAD",
+								"isSalesforceMVP": false,
+								"isWinningUser": false,
+								"name": "Alexa Parnell",
+								"smallPhotoUrl": "https://trailblazer.me/img/userprofile/default_profile_200_v2.png",
+								"tbidUserId": "0051I000006g7S6QAI",
+								"trailblazerIdentityId": "aparnell2"
+							},
+							"responseDate": "2020-04-16T15:39:46.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3A000000TX47UAG",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3A000000TX48UAG",
+									"questionExternalId": "Subject__c",
+									"response": "Forecasting made easier!"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3A000000TX49UAG",
+									"questionExternalId": "Comment__c",
+									"response": "Finally a system that can forecast both P&amp;L Expense and Cash!  I&#39;ve been waiting to use a tool like this, and PlaceCPM does not disappoint.  I love how the system integrates both with our Salesforce tool and with Quickbooks.  We are able to ditch the time-consuming spreadsheets and forecast our sales based on real time data."
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3A000000CftUUAS",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000FSITwQAP",
+								"isSalesforceMVP": false,
+								"isWinningUser": false,
+								"name": "Nitin Suresh",
+								"smallPhotoUrl": "https://trailblazer.me/profilephoto/7291I000001CPHQ/M",
+								"tbidUserId": "0051I0000063az6QAA",
+								"trailblazerIdentityId": "nsuresh4"
+							},
+							"responseDate": "2020-03-28T17:21:14.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3A0000008UNLUA2",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3A0000008UNMUA2",
+									"questionExternalId": "Subject__c",
+									"response": "Seamless &amp; Effective"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3A0000008UNNUA2",
+									"questionExternalId": "Comment__c",
+									"response": "As their tagline reads - ‘ Simplify financial forecasting’, Place CPM helped us do just that with their flawless integration across Salesforce and QB. Our financial data were scattered around and it took quite a while to segregate and build a forecast model. That is until Place CPM came along.\n\nNow with the power to seamlessly create P&amp;L forecast and see them as a consolidated report, we were able to sort out our accounts clearly. It gives us a one-stop portal to view all our numbers and helps us in growing our business. Highly recommend this for all organizations looking to upscale and simplify their financial forecasting models with no hassle at all."
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3A0000008tgrUAA",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000EJLg2QAH",
+								"isSalesforceMVP": false,
+								"isWinningUser": false,
+								"name": "Ashwin Kumar",
+								"smallPhotoUrl": "https://trailblazer.me/profilephoto/7291I000001F4Y7/M",
+								"tbidUserId": "0051I000006Tx1aQAC",
+								"trailblazerIdentityId": "akumar1186"
+							},
+							"responseDate": "2020-03-27T19:01:10.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3A0000004j0AUAQ",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3A0000004j0BUAQ",
+									"questionExternalId": "Subject__c",
+									"response": "Powerful forecasting tool that makes life easier"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3A0000004j0CUAQ",
+									"questionExternalId": "Comment__c",
+									"response": "Place CPM fits our expectations well. We’ve been using it for several months now. A real quick, accurate and easy sync up with our existing Salesforce platform made it more efficient for us to manage our day-to-day transaction based financials. Our workflows have become much easier in order to deal with cash projections and P&amp;L forecasting. We don’t have to worry about data silos or time consuming spreadsheets anymore.\n\nWe do transactions in foreign currencies as well. With the help of Place CPM, we are now able to distinguish between the various currencies and keep up with quick consolidations. It enabled us to utilize the wealth of our financial and operational data to maximize our business insights. I’d definitely recommend it to companies who need financial forecasting at their fingertips!"
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3A000000LhRJUA0",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000EdOPeQAN",
+								"isSalesforceMVP": false,
+								"isWinningUser": true,
+								"name": "Greg Symons",
+								"smallPhotoUrl": "https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eV5nfZIG2k8VvcMGyaKDZZpfD8csy7mel5LJEgvV2q0AzuihbJ6rcxh066AwM2XbhA%3D%3D",
+								"tbidUserId": "0051I000004ZLTLQA4",
+								"trailblazerIdentityId": "gsymons"
+							},
+							"responseDate": "2020-03-27T16:00:13.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3A000000GvVhUAK",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3A000000GvViUAK",
+									"questionExternalId": "Subject__c",
+									"response": "Intuitive and Powerful!"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3A000000GvVjUAK",
+									"questionExternalId": "Comment__c",
+									"response": "The PlaceCPM Product has been such a fantastic addition to my company&#39;s Salesforce org. As a small business owner, I&#39;m able to produce budgets and forecasts in a fraction of the time it would have taken me previously. It&#39;s such an intuitive and easy to use app that even members on my team who aren&#39;t financially savvy have been able to gain valuable insight as the type of detail produced by PlaceCPM would have previously only been visible within Excel - having this detail all in one place has been a game changer for us!"
+								}
+							]
+						},
+						{
+							"comments": [],
+							"id": "a6H3A000000XvRXUA0",
+							"likeCount": 4,
+							"questionnaireType": "User Review",
+							"rating": 5,
+							"responderUser": {
+								"id": "0053A00000F2UOuQAN",
+								"isSalesforceMVP": false,
+								"isWinningUser": false,
+								"name": "Angela Hood",
+								"smallPhotoUrl": "https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7edM2QoLFOTSvbq-VqM4fvEkBOIvaVW3XOC2KKAMEMo-4K-mO0Zm3SnVqQdA-GLUZyQ%3D%3D",
+								"tbidUserId": "0051I000006BTXkQAO",
+								"trailblazerIdentityId": "ahood3"
+							},
+							"responseDate": "2020-01-12T20:52:07.000Z",
+							"responses": [
+								{
+									"description": "Rate your overall experience",
+									"id": "a6E3A000000QG2jUAG",
+									"questionExternalId": "OverallScore__c",
+									"response": "5"
+								},
+								{
+									"description": "Review Title",
+									"id": "a6E3A000000QG2kUAG",
+									"questionExternalId": "Subject__c",
+									"response": "PlaceCPM is a lifesaver"
+								},
+								{
+									"description": "Comments",
+									"id": "a6E3A000000QG2fUAG",
+									"questionExternalId": "Comment__c",
+									"response": "I&#39;m a CEO/Founder of a fast growing tech startup in recruiting and staffing. So I never have enough time to devote to financial projections and my background is as an engineer, not in finance.  The things I like most about PlaceCPM are:\n1. It was super easy and fast to set up, no expensive implementation!!! (I was worried about this.)\n2. It does P&amp;L forecast but also does CASH! This was impossible to find before I found CPM.\n3. Helps me see what is really going on with all of our accounts.\n4. Love the cool way it automatically forecasts and adds the expenses that increase when I hire someone new.\n5. We are raising our next round  of investment and it enabled me to get my financials up to speed without needing to hire a CFO. Essentially CPM paid for itself within the first 30 days. \n6. I think it would be worth moving to Salesforce so you can use CPM if you aren&#39;t already on SF."
+								}
+							]
+						}
+					]
+				},
+				"cacheable": true
+			},
+			"error": [],
+			"storable": true
+		}
+	],
+	"context": {
+		"mode": "PROD",
+		"app": "c:AppX_QuestionnaireContainer",
+		"pathPrefix": "",
+		"fwuid": "AE898lCB2KpCUerBipCwXg",
+		"mlr": 1,
+		"uad": 1,
+		"descriptorUids": {},
+		"loaded": {
+			"APPLICATION@markup://c:AppX_QuestionnaireContainer": "XKvfBLor6NcqojGcNZzF7Q"
+		},
+		"globalValueProviders": [
+			{
+				"type": "$Global",
+				"values": {
+					"eswConfigDeveloperName": {
+						"writable": true,
+						"defaultValue": ""
+					},
+					"isVoiceOver": {
+						"writable": true,
+						"defaultValue": false
+					},
+					"setupAppContextId": {
+						"writable": true,
+						"defaultValue": ""
+					},
+					"density": {
+						"writable": true,
+						"defaultValue": ""
+					},
+					"srcdoc": {
+						"writable": false,
+						"defaultValue": false
+					},
+					"appContextId": {
+						"writable": true,
+						"defaultValue": ""
+					},
+					"dynamicTypeSize": {
+						"writable": true,
+						"defaultValue": ""
+					}
+				}
+			}
+		],
+		"enableAccessChecks": true,
+		"apce": 1,
+		"dns": "c",
+		"ls": 1,
+		"lv": "52",
+		"mna": {
+			"lightning": "interop"
+		},
+		"arse": 1,
+		"services": [
+			"markup://lightning:configProvider",
+			"markup://force:salesforceScopedModuleResolver",
+			"markup://instrumentation:locatorService"
+		]
+	},
+	"perfSummary": {
+		"version": "core",
+		"request": 235,
+		"actions": {
+			"4;a": {
+				"total": 206,
+				"db": 20
+			}
+		},
+		"actionsTotal": 206,
+		"overhead": 0
+	}
+}
